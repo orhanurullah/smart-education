@@ -1,0 +1,22 @@
+{
+  "name": "smartedu",
+  "version": "1.0.0",
+  "description": "Smart education with teaches and students",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "education",
+    "student"
+  ],
+  "author": "Orhan Nurullah",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
